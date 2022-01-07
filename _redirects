@@ -19,6 +19,7 @@
 /misc/privacy-policy https://www.thegeorgetowndish.com/privacy-policy
 /openx https://www.thegeorgetowndish.com/
 /category/tags https://www.thegeorgetowndish.com/
+/category/tags/* https://www.thegeorgetowndish.com/
 /category https://www.thegeorgetowndish.com/
 /comments https://disqus.com/home/forums/thegeorgetowndish/
 /comments/recent https://disqus.com/home/forums/thegeorgetowndish/
