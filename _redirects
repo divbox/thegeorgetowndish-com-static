@@ -21,5 +21,6 @@
 /category/tags https://www.thegeorgetowndish.com/
 /category/tags/* https://www.thegeorgetowndish.com/
 /category https://www.thegeorgetowndish.com/
+/taxonomy/* https://www.thegeorgetowndish.com/
 /comments https://disqus.com/home/forums/thegeorgetowndish/
-/comments/recent https://disqus.com/home/forums/thegeorgetowndish/
+/comments/* https://disqus.com/home/forums/thegeorgetowndish/
