@@ -21,11 +21,21 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /authors/simon-jacobsen https://www.thegeorgetowndish.com
 /authors/leslie-kamrad https://www.thegeorgetowndish.com
 /misc/privacy-policy https://www.thegeorgetowndish.com/privacy-policy
-/openx https://www.thegeorgetowndish.com/
-/openx/* https://www.thegeorgetowndish.com/
-/category/tags https://www.thegeorgetowndish.com/
-/category/tags/* https://www.thegeorgetowndish.com/
-/category https://www.thegeorgetowndish.com/
-/taxonomy/* https://www.thegeorgetowndish.com/
+/openx https://www.thegeorgetowndish.com
+/openx/* https://www.thegeorgetowndish.com
+/category/tags https://www.thegeorgetowndish.com
+/category/tags/* https://www.thegeorgetowndish.com
+/category https://www.thegeorgetowndish.com
+/taxonomy/* https://www.thegeorgetowndish.com
+/user/register/* https://www.thegeorgetowndish.com
 /comments https://disqus.com/home/forums/thegeorgetowndish/
 /comments/* https://disqus.com/home/forums/thegeorgetowndish/
+
+/SITEMAP_INHERITANCE_STUB https://www.thegeorgetowndish.com
+/ads.txt https://www.thegeorgetowndish.com
+
+/thedish/women-does-marriage-make-you-fat https://www.thegeorgetowndish.com/articles/women-does-marriage-make-you-fat
+/thedish/* https://www.thegeorgetowndish.com/articles/:splat 301!
+
+/thelatest/putting-dog https://www.thegeorgetowndish.com/articles/putting-dog
+/thelatest/* https://www.thegeorgetowndish.com/articles/:splat 301!
