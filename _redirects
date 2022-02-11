@@ -5,9 +5,7 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /authors/denmansgarden https://www.thegeorgetowndish.com/authors/gwendolyn-van-paasschen
 /authors/ada-polla https://www.thegeorgetowndish.com
 /authors/barbara-morana https://www.thegeorgetowndish.com
-/authors/beth-solomon https://www.thegeorgetowndish.com
-/authors/divbox https://www.thegeorgetowndish.com
-/authors/georgetown-current https://www.thegeorgetowndish.com
+/authors/beth-solomon https://www.thegeorgetowndish.com /authors/divbox https://www.thegeorgetowndish.com /authors/georgetown-current https://www.thegeorgetowndish.com
 /authors/georgetown-saucer https://www.thegeorgetowndish.com
 /authors/hillary-leeb https://www.thegeorgetowndish.com
 /authors/janet-staihar https://www.thegeorgetowndish.com
@@ -28,14 +26,19 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /category https://www.thegeorgetowndish.com
 /taxonomy/* https://www.thegeorgetowndish.com
 /user/register/* https://www.thegeorgetowndish.com
+/blogs/* https://www.thegeorgetowndish.com
+/printmail/* https://www.thegeorgetowndish.com
 /comments https://disqus.com/home/forums/thegeorgetowndish/
 /comments/* https://disqus.com/home/forums/thegeorgetowndish/
-
 /SITEMAP_INHERITANCE_STUB https://www.thegeorgetowndish.com
 /ads.txt https://www.thegeorgetowndish.com
-
 /thedish/women-does-marriage-make-you-fat https://www.thegeorgetowndish.com/articles/women-does-marriage-make-you-fat
 /thedish/* https://www.thegeorgetowndish.com/articles/:splat 301!
-
+/the-latest https://www.thegeorgetowndish.com
 /thelatest/putting-dog https://www.thegeorgetowndish.com/articles/putting-dog
 /thelatest/* https://www.thegeorgetowndish.com/articles/:splat 301!
+
+/articles/esther-bubley-gallery-talk-aug-27 https://www.thegeorgetowndish.com
+/articles/weekend-tots-noon-years-eve-tudor-place https://www.thegeorgetowndish.com
+/articles/yoga-park https://www.thegeorgetowndish.com
+/articles/famed-choreographer-mats-ek-live-house-sweden-may-29 https://www.thegeorgetowndish.com
