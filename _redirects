@@ -59,7 +59,7 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /thelatest/georgetown-be-featured-abc-drama https://www.thegeorgetowndish.com
 /thelatest/* https://www.thegeorgetowndish.com/articles/:splat 301!
 
-/articles/esther-bubley-gallery-talk-aug-27 https://www.thegeorgetowndish.com
+#/articles/esther-bubley-gallery-talk-aug-27 https://www.thegeorgetowndish.com
 /articles/weekend-tots-noon-years-eve-tudor-place https://www.thegeorgetowndish.com
 /articles/famed-choreographer-mats-ek-live-house-sweden-may-29 https://www.thegeorgetowndish.com
 /articles/www.vivre.com https://www.thegeorgetowndish.com
