@@ -10,6 +10,8 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /authors/barbara-morana/* https://www.thegeorgetowndish.com
 /authors/beth-solomon https://www.thegeorgetowndish.com
 /authors/beth-solomon/* https://www.thegeorgetowndish.com
+/authors/admin https://www.thegeorgetowndish.com
+/authors/admin/* https://www.thegeorgetowndish.com
 /authors/divbox https://www.thegeorgetowndish.com
 /authors/divbox/* https://www.thegeorgetowndish.com
 /authors/georgetown-current https://www.thegeorgetowndish.com
