@@ -59,7 +59,6 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /thedish/* https://www.thegeorgetowndish.com/articles/:splat 301!
 /the-latest https://www.thegeorgetowndish.com
 /thelatest/putting-dog https://www.thegeorgetowndish.com/articles/putting-dog
-/thelatest/georgetown-be-featured-abc-drama https://www.thegeorgetowndish.com
 /thelatest/* https://www.thegeorgetowndish.com/articles/:splat 301!
 
 #/articles/esther-bubley-gallery-talk-aug-27 https://www.thegeorgetowndish.com
@@ -94,6 +93,7 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /articles/new-georgetown-yoga-studio https://www.thegeorgetowndish.com/articles/yo-yoga-opens-georgetown
 /articles/meet-anglia-inscoe https://www.thegeorgetowndish.com/articles/meet-angelia-inscoe
 /articles/red-notice https://www.thegeorgetowndish.com/articles/watch-red-notice
+/articles/watch-red-notice/ https://www.thegeorgetowndish.com/articles/watch-red-notice
 /articles/james-van-der-zees-portrait-harlem-nga https://www.thegeorgetowndish.com/articles/james-van-der-zees-portrait-harlem
 /articles/noosh-restaurant-welcomes-you https://www.thegeorgetowndish.com/articles/georgetown-welcomes-noosh
 /articles/pumpkin-poking https://www.thegeorgetowndish.com/articles/pulp-fiction
