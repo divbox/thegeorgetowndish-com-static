@@ -56,6 +56,7 @@ https://www.georgetowndish.com/* https://www.thegeorgetowndish.com/:splat 301!
 /SITEMAP_INHERITANCE_STUB https://www.thegeorgetowndish.com
 /ads.txt https://www.thegeorgetowndish.com
 /thedish/women-does-marriage-make-you-fat https://www.thegeorgetowndish.com/articles/women-does-marriage-make-you-fat
+/printmail/thedish/* https://www.thegeorgetowndish.com/articles/:splat 301!
 /thedish/* https://www.thegeorgetowndish.com/articles/:splat 301!
 /the-latest https://www.thegeorgetowndish.com
 /thelatest/putting-dog https://www.thegeorgetowndish.com/articles/putting-dog
